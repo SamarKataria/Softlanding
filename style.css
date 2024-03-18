@@ -10,31 +10,6 @@ body{
      display: block;   
  }
 
-/* .nav-link {
-    color: #0d6efd;
-    text-decoration: none;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-    padding-left: 25px; 
-    padding: .5rem 1rem;
-} */
-
-/* .navbar {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: .5rem; 
-    padding-bottom: .5rem;
-} */
-
-/* .nav-link {
-    display: block;
-    color: #0d6efd;
-    text-decoration: none;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-} */
-
 li.nav-item {
     margin-left: 20px;
 }
@@ -52,13 +27,6 @@ li.nav-item {
     margin-top: 300px;
     margin-bottom: 300px;
 }
-
-/* @media screen and (min-width:800px) {
-    .manage{
-        width: 1200px;
-        text-align: center;
-    }
-} */
 
 .info h6{
     color: white;
@@ -146,13 +114,8 @@ li.nav-item {
     padding: 20px;
 }
 
-/* .samar{
-    background-color: blue;
-} */
-
 .carousel {
     padding: 30px;
-    /* height: 365px; */
     position: relative;
 }
 
@@ -201,14 +164,6 @@ margin-top: 50px;
     font-weight: bold;
 }
 
-/* @media screen and (min-width:1200px) {
-    .blue{
-        width: 1200px;
-        background-color: rgb(106, 106, 155);
-        opacity: .5;
-    }    
-} */
-
 .blue{
     background-color: rgb(10, 39, 48);
     opacity: 60%;
@@ -220,7 +175,6 @@ margin-top: 50px;
 
 .name p{
     color: white;
-    /* margin-bottom: 20px; */
 }
 
 .professional p{
@@ -238,10 +192,6 @@ margin-top: 50px;
     text-align: center;
 }
 
-/* button.btn-dark{
-    border-radius: 50px;
-} */
-
 button.btn-dark {
     margin-top: 17px;
     height: 46px;
@@ -255,10 +205,6 @@ header{
 #inputPassword3{
     height: 200px;
 }
-
-/* .placeholder{
-
-} */
 
 .enter{
     display: flex;
@@ -277,7 +223,6 @@ header{
 button.start{
         color: white;
         border: none;
-        /* border-color: #198754; */
         background-color: #198754;
         border-radius: 25px;
         height: 37px;
